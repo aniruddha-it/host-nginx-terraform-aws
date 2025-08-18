@@ -1,0 +1,14 @@
+body{
+    background:linear-gradient(to right, #6a3093 ,#a044ff ,#a57);
+    size: 10px;
+    border: 10px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border-color: black;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
