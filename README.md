@@ -1,4 +1,5 @@
 🚀 AWS NGINX Deployment with Terraform
+
 This project provisions an AWS EC2 instance running NGINX, using Terraform with a myself created modular structure. It includes all necessary networking components like a VPC, public subnet, internet gateway, and a security group allowing SSH and HTTP traffic.
 
 📦 Features
@@ -18,10 +19,15 @@ This project provisions an AWS EC2 instance running NGINX, using Terraform with 
 ⚙️ Requirements
 
 Terraform
+
 AWS CLI
+
 Bash Script
+
 AWS credentials configured (aws configure)
+
 An existing EC2 Key Pair (key_name must match)
+
 🚀 Usage
 
 1. Clone the Repo
